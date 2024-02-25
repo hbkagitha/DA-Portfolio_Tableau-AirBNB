@@ -21,3 +21,5 @@ Here are some of the key takeaways from this project:
 - How to create different types of visualizations in Tableau
 - How to format a dashboard in Tableau
 - How to use Tableau to analyze Airbnb data
+
+![Dashboard](https://github.com/hbkagitha/DA-Portfolio_Tableau-AirBnb/blob/main/Dashboard-Tableau.png)
